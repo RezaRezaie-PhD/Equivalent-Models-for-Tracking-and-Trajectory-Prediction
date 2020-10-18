@@ -1,1 +1,3 @@
 # Equivalent-Models-for-Tracking-and-Trajectory-Prediction
+Several equivalent models are presented. These models are useful for tracking, trajectory prediction, behavior prediction, and traffic control. According to the application, one model might be more easily applicable compared to another. So, one can choose a suiable model (among these equivalent models) based on the application.
+As a special case, these models include a reciprocal process dynamic model. An application of reciprocal processes (which is a one-dimensional Markov random field) is in image processing. So, the presented equivalent models are used for image processing, as well.
